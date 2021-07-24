@@ -8,4 +8,5 @@ hello haihaohm! hello git!
 hello haihaohm! hello git!
 hello haihaohm! hello git!
 hello haihaohm! hello git! master
+hello haihaohm! hello git! hot-fix test
 hello haihaohm! hello git!
